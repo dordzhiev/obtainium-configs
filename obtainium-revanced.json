@@ -1,0 +1,58 @@
+{
+    "apps": [
+        {
+            "id": "app.revanced.android.gms",
+            "url": "https://github.com/WSTxda/MicroG-RE",
+            "author": "WSTxda",
+            "name": "MicroG",
+            "installedVersion": "5.13",
+            "latestVersion": "5.13",
+            "apkUrls": "[[\"microg-release.apk\",\"https://api.github.com/repos/WSTxda/MicroG-RE/releases/assets/298170513\"]]",
+            "otherAssetUrls": "[[\"5.13.tar.gz\",\"https://api.github.com/repos/WSTxda/MicroG-RE/tarball/5.13\"],[\"5.13.zip\",\"https://api.github.com/repos/WSTxda/MicroG-RE/zipball/5.13\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"v?(\\\\d+(?:\\\\.\\\\d+)+)\",\"matchGroupToUse\":\"1\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"microg.*\\\\.apk$\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "lastUpdateCheck": 1760476580071565,
+            "pinned": false,
+            "categories": [],
+            "releaseDate": 1759070357000000,
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "anddea.youtube.music",
+            "url": "https://github.com/MANCrimSon/YouTube-ReVanced-Extended",
+            "author": "MANCrimSon",
+            "name": "YouTube Music",
+            "installedVersion": "8.30.54",
+            "latestVersion": "8.30.54",
+            "apkUrls": "[[\"youtube-music-revanced-extended-v8.30.54-arm64-v8a.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/300468715\"]]",
+            "otherAssetUrls": "[[\"youtube-music-revanced-extended-magisk-v8.30.54-arm-v7a.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/208/youtube-music-revanced-extended-magisk-v8.30.54-arm-v7a.zip\"],[\"youtube-music-revanced-extended-magisk-v8.30.54-arm64-v8a.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/208/youtube-music-revanced-extended-magisk-v8.30.54-arm64-v8a.zip\"],[\"youtube-music-revanced-extended-v8.30.54-arm-v7a.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/300468716\"],[\"youtube-revanced-extended-magisk-v20.21.37-all.zip\",\"https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases/download/208/youtube-revanced-extended-magisk-v20.21.37-all.zip\"],[\"youtube-revanced-extended-v20.21.37-all.apk\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/releases/assets/300468686\"],[\"208.tar.gz\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/tarball/208\"],[\"208.zip\",\"https://api.github.com/repos/MANCrimSon/YouTube-ReVanced-Extended/zipball/208\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"v?(\\\\d+(?:\\\\.\\\\d+)+)\",\"matchGroupToUse\":\"1\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"youtube-music-revanced-extended.*\\\\.apk$\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "lastUpdateCheck": 1760477017670038,
+            "pinned": false,
+            "categories": [],
+            "releaseDate": 1759584587000000,
+            "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "app.rvx.android.youtube",
+            "url": "https://github.com/thunderkex/revanced-extended",
+            "author": "thunderkex",
+            "name": "YouTube",
+            "installedVersion": "20.05.46",
+            "latestVersion": "20.05.46",
+            "apkUrls": "[[\"gphotos-revanced-v7.49.0.816946145-arm64-v8a.apk\",\"https://api.github.com/repos/thunderkex/revanced-extended/releases/assets/304191853\"],[\"music-ex-dev-revanced-v8.30.54-arm64-v8a.apk\",\"https://api.github.com/repos/thunderkex/revanced-extended/releases/assets/304191798\"],[\"soundcloud-revanced-v2025.05.27-release-arm64-v8a.apk\",\"https://api.github.com/repos/thunderkex/revanced-extended/releases/assets/304191770\"],[\"youtube-ex-dev-revanced-v20.05.46-arm64-v8a.apk\",\"https://api.github.com/repos/thunderkex/revanced-extended/releases/assets/304191703\"]]",
+            "otherAssetUrls": "[[\"music-ex-dev-revanced-magisk-v8.30.54-arm64-v8a.zip\",\"https://github.com/thunderkex/revanced-extended/releases/download/202510141623/music-ex-dev-revanced-magisk-v8.30.54-arm64-v8a.zip\"],[\"youtube-ex-dev-revanced-magisk-v20.05.46-arm64-v8a.zip\",\"https://github.com/thunderkex/revanced-extended/releases/download/202510141623/youtube-ex-dev-revanced-magisk-v20.05.46-arm64-v8a.zip\"],[\"202510141623.tar.gz\",\"https://api.github.com/repos/thunderkex/revanced-extended/tarball/202510141623\"],[\"202510141623.zip\",\"https://api.github.com/repos/thunderkex/revanced-extended/zipball/202510141623\"]]",
+            "preferredApkIndex": 3,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"v?(\\\\d+(?:\\\\.\\\\d+)+)\",\"matchGroupToUse\":\"1\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"youtube-ex-dev-revanced.*\\\\.apk$\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "lastUpdateCheck": 1760477349139413,
+            "pinned": false,
+            "categories": [],
+            "releaseDate": 1760459432000000,
+            "overrideSource": null,
+            "allowIdChange": false
+        }
+    ]
+}
